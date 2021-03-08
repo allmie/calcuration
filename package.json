@@ -1,0 +1,11 @@
+{
+  "name": "calcuration",
+  "version": "1.0.0",
+  "description": "create calcuration with html, css, javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jsw",
+  "license": "ISC"
+}
